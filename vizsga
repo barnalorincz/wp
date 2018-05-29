@@ -1,0 +1,10 @@
+A host gép hálózati kártyájának ip címe: 192.168.0.110
+A virtuális 16.04es Ubuntu Mac címe:	 08:00:27:c1:eb:43
+A virtuális 16.04es Ubuntu IP címe:	 192.168.2.125
+Az ansible verziószáma:			 2.5.3
+
+A feltöltésre használt repo címe:	 
+https://github.com/umszki/513a-vizsga-barnalorincz
+
+A segítségre használz(saját) repo címe:
+https://github.com/barnalorincz/wp/blob/master/wpansi
